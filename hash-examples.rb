@@ -9,3 +9,8 @@ animal = {
   color: "red",
   dangerous: false
 }
+
+customer = {
+  name: "bob",
+  has_money: false
+}
